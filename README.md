@@ -168,7 +168,7 @@ idf.py -p COMx flash monitor
 |---|---|
 | Priyanshu Pandey | Lovely Professional University |
 | Suyash Raj Tiwari | Lovely Professional University |
-| Vivek Kumar | Lovely Professional University |
+| Siddhant Singh | Lovely Professional University |
 
 **Department:** Electronics & Communication Engineering
 **Location:** Punjab – 144411, India
